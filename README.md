@@ -15,6 +15,7 @@ How to compile the Reversi_AI
 AIはGUIでの使用を前提としてIOが設計されています。CUIで使いたい場合（おもにLINUXで使いたい場合）、以下のようにmain.cppを変更してください。
 
 Line9: game.showBoard();    -->       game.show();
+
 Line22: game.showBoard();   -->       game.show();
 
 
