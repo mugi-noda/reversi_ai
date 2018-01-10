@@ -8,7 +8,7 @@ How to compile the Reversi_AI
 ※最適化オプションについては、デバッグの目的がない限り、すべて記載することをお勧めします。  
 
 手順
--
+=
 1. "Revrsi_AI"のディレクトリでターミナル（cmd.exeなど）を開きます。  
 2. "g++ main.cpp -std=c++17 -O3 -mtune=native -march=native -flto -o a.exe"でコンパイルします。
 
