@@ -24,5 +24,5 @@ How to build the Reversi_GUI
 "visualstudio2017"か"build tools for visualstudio2017"を使ってビルドしてください。
 
 How to run Reversi_AI on Reversi_GUI
-Reversi_AIをコンパイルして生成されたexeファイルをRevresi_GUI.exeがあるディレクトリにコピーし、Reversi_GUI.exeを実行してください。
-Reversi_AIを実行して生成されたa.exeは単独でも実行可能です。コマンドラインから呼び出してください。
+ Reversi_AIをコンパイルして生成されたexeファイルをRevresi_GUI.exeがあるディレクトリにコピーし、Reversi_GUI.exeを実行してください。
+ Reversi_AIを実行して生成されたa.exeは単独でも実行可能です。コマンドラインから呼び出してください。
