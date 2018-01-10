@@ -1,4 +1,5 @@
-#### reversi_ai
+reversi_ai
+=
 Artifical Intelligence of Reversi (Othello)
 
 How to compile the Reversi_AI
